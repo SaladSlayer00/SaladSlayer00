@@ -28,10 +28,6 @@ Feel free to reach out for collaboration or just a friendly chat:
 - LinkedIn: [Beatrice Insalata](https://www.linkedin.com/in/beatrice-insalata-23b291230/)
 
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaladSlayer00&show_icons=true&count_private=true&theme=algolia)
-
 ## 🌈 Fun Facts
 - I can probably name 10 MS-DOS Games
 
