@@ -4,7 +4,7 @@ I'm Beatrice, a passionate computer engineer and data scientist. Welcome to my c
 
 ## 🚀 Quick Intro
 
-- 🔭 I'm currently pursuing my MSc in AI & Data Science at KTH Stockholm + Politecnico Milano!.
+- 🔭 I'm currently pursuing my MSc in AI & Data Science at KTH Stockholm + Politecnico Milano!
 - 🌱 I'm passionate about machine learning, data analysis, and building cool projects that make a difference.
 - 📚 I enjoy sharing knowledge and learning from the community. Let's grow together! 🌱
 
