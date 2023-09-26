@@ -12,7 +12,7 @@ I'm Beatrice, a passionate computer engineer and data scientist. Welcome to my c
 
 Here are some of the technologies and tools I work with:
 
-- **Languages:** Python, Java, C/C++, JavaScript, Scala, R
+- **Languages:** Python, Java, C, Scala, R
 - **Data Science:** TensorFlow, PyTorch, scikit-learn, NumPy, Pandas, Matplotlib
 - **Web Development:** HTML, CSS, JavaScript, React
 - **Databases:** SQL, NoSQL (Cassandra)
