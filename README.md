@@ -19,7 +19,7 @@ Here are some of the technologies and tools I work with:
 - **Big Data:** Apache Spark
 - **Version Control:** Git/GitHub
 - **Project Management:** Jira
-- **Design:** Figma
+- **Design:** Figma, Canva
 
 ## 📫 Let's Connect!
 
