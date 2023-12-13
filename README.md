@@ -14,12 +14,8 @@ Here are some of the technologies and tools I work with:
 
 - **Languages:** Python, Java, C, Scala, R
 - **Data Science:** TensorFlow, PyTorch, scikit-learn, NumPy, Pandas, Matplotlib
-- **Web Development:** HTML, CSS, JavaScript, React
 - **Databases:** SQL, NoSQL (Cassandra)
 - **Big Data:** Apache Spark
-- **Version Control:** Git/GitHub
-- **Project Management:** Jira
-- **Design:** Figma, Canva
 
 ## 📫 Let's Connect!
 
