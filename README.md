@@ -4,7 +4,7 @@ I'm Beatrice, a passionate computer engineer and data scientist. Welcome to my c
 
 ## 🚀 Quick Intro
 
-- 💻 I'm an AI & Data Intern at Microsoft!
+- 💻 I'm an AI & Data Tech Specialist at Microsoft!
 - 🔭 I'm currently pursuing my MSc in AI & Data Science at KTH Stockholm + Politecnico Milano!
 - 🌱 I'm passionate about machine learning, data analysis, and building cool projects.
 - 📚 I enjoy sharing knowledge and learning from the community. Let's grow together! 🌱
