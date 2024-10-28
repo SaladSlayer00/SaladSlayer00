@@ -5,18 +5,14 @@ I'm Beatrice, a passionate computer engineer and data scientist. Welcome to my c
 ## 🚀 Quick Intro
 
 - 💻 I'm an AI & Data Tech Specialist at Microsoft!
-- 🔭 I'm currently pursuing my MSc in AI & Data Science at KTH Stockholm + Politecnico Milano!
-- 🌱 I'm passionate about machine learning, data analysis, and building cool projects.
+- 🔭 I got my MSc in AI & Data Science at KTH Stockholm + Politecnico Milano!
+- 🌱 I'm passionate about machine learning, data analysis, and building cool projects with GenAI.
 - 📚 I enjoy sharing knowledge and learning from the community. Let's grow together! 🌱
 
 ## 💻 Technologies & Tools
 
-Here are some of the technologies and tools I work with:
-
-- **Languages:** Python, Java, C, Scala, R
-- **Data Science:** TensorFlow, PyTorch, scikit-learn, NumPy, Pandas, Matplotlib
-- **Databases:** SQL, NoSQL (Cassandra)
-- **Big Data:** Apache Spark
+I work with Azure Cloud tools and GenAI models to help customers achieve the best results!
+From Data Engineering to LLMOps, I help them define and design their cloud architectures.
 
 ## 📫 Let's Connect!
 
