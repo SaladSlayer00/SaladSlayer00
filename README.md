@@ -1,20 +1,15 @@
-# Hello, World! 👋
-
-I'm Beatrice, a passionate computer engineer and data scientist. Welcome to my corner of the GitHub universe! 🌌
-
 ## 🚀 Quick Intro
 
-- 💻 I'm an AI & Data Tech Specialist at Microsoft!
-- 🔭 I got my MSc in AI & Data Science at KTH Stockholm + Politecnico Milano!
-- 🌱 I'm passionate about machine learning, data analysis, and building cool projects with GenAI.
-- 📚 I enjoy sharing knowledge and learning from the community. Let's grow together! 🌱
+- 💻 I'm an AI Solutions Engineer at Microsoft
+- 🔭 I got my MSc in AI & Data Science at KTH Stockholm + Politecnico Milano
+- 🌱 I'm passionate about building cool projects with GenAI.
+- 📚 I enjoy sharing knowledge and learning from the community :)
 
 ## 💻 Technologies & Tools
 
-I work with Azure Cloud tools and GenAI models to help customers achieve the best results!
-From Data Engineering to LLMOps, I help them define and design their cloud architectures.
+I work with Azure Cloud tools and GenAI models on real-life problems
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 Feel free to reach out for collaboration or just a friendly chat:
 
@@ -24,4 +19,4 @@ Feel free to reach out for collaboration or just a friendly chat:
 ## 🌈 Fun Facts
 - I can probably name 10 MS-DOS Games
 
-Thanks for visiting my GitHub profile! Stay curious and keep coding. 🚀
+Thanks for visiting my GitHub profile :D
